@@ -1,2 +1,2 @@
-# Q-Flutter
+# GezginRehberi
 Istinye University Student Projects
